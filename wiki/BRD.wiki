@@ -1,0 +1,3 @@
+Je voudrais un logiciel qui me permette de construire un site internet destiné à afficher des photos de fleurs, oiseaux, .... en filtrant sur divers critères.
+Exemple pour les fleurs : la famille, le genre botanique (français et latin), la couleur, la taille, le nombre de pétales, .....
+Je voudrais donc créer une base de données descriptive de mes photos sur laquelle je puisse lancer des requêtes à partir des critères de filtrage choisis, afficher les résultats de la sélection obtenue (liste + vignettes des photos), puis afficher les photos en grand en cliquant sur les vignettes.
