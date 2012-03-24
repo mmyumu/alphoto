@@ -1,0 +1,10 @@
+1. Voir pour interface back office
+    * Interface séparée
+    * Interface "inclue" (boutons ajoutés dans l'interface actuelle) après login
+2. Réfléchir BDD (sans l'aspect "fonctionnel" des photos)
+    * Pages
+    * Langues
+    * Photos
+3. Scripts de thumbnails/resizes
+    * generation de thumbnails a la volée ? stockée ?
+    * resize a la facebook (ajax) ?
